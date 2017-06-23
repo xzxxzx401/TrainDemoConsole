@@ -14,4 +14,70 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="central_contral.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="output.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="railway.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="station.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="train.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="data_structure.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="train9.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="train8.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="train7.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="train6.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="train5.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="train4.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="train3.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="train2.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="train1.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="station.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="file_output.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

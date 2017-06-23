@@ -18,6 +18,32 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="central_contral.cpp" />
+    <ClCompile Include="input.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="output.cpp" />
+    <ClCompile Include="railway.cpp" />
+    <ClCompile Include="station.cpp" />
+    <ClCompile Include="train.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="data_structure.h" />
+    <ClInclude Include="head.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="file_output.txt" />
+    <Text Include="station.txt" />
+    <Text Include="train1.txt" />
+    <Text Include="train2.txt" />
+    <Text Include="train3.txt" />
+    <Text Include="train4.txt" />
+    <Text Include="train5.txt" />
+    <Text Include="train6.txt" />
+    <Text Include="train7.txt" />
+    <Text Include="train8.txt" />
+    <Text Include="train9.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{26A67773-717C-49D9-B90C-33AD96A4A193}</ProjectGuid>
@@ -110,8 +136,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
